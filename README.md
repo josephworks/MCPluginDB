@@ -1,2 +1,2 @@
 # MCPluginDB
-Recommended plugins per Minecraft Server Software
+Recommended plugins per Minecraft Server Software.
